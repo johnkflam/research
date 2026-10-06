@@ -173,3 +173,67 @@ Morning (30-45 min):
 
 #### The One Thing
 Write and publish something under 400 words, today, in under 30 minutes. Not perfect. Just *done and out*. He knows how to write—he needs momentum, not more information.
+
+---
+
+## Storytelling Session
+
+**Date:** October 6, 2026, 11:21 AM PDT
+
+### Progress
+- John wrote his first short piece about slowing down and reflecting
+- Wrote it to his younger self (audience of one—success!)
+- Realized his writing sounds like a lecture and doesn't flow well
+
+### Why Writing Feels "Lectury"
+
+1. You state the lesson before showing the story
+2. You skip the messy middle—go from lesson learned → lesson applied without confusion/setbacks
+3. You write to inform, not to share an experience
+
+### How to Fix It
+
+**1. Start in the middle of action—not with a lesson**
+Don't begin with "I learned..." Begin with a *scene*. A moment. Something specific.
+
+Lecture mode: *"Many people don't take time to reflect. Reflection is important..."*
+
+Story mode: *"I was sitting in my car in the Costco parking lot at 6:47 AM. I had already been awake for 2 hours. I was on my third cup of coffee..."*
+
+**2. Use "and then... and then... and then" structure**
+Good stories have sequence. Things happened → then something changed → then something else happened.
+
+Study James Clear and Ryan Holiday—they start with a specific moment, walk through what happened, and the lesson emerges naturally at the end.
+
+**3. Add texture—not just what happened, but what you noticed**
+- What did you *see*?
+- What did you *feel* (physically)?
+- What small detail stuck with you?
+
+**4. Share the struggle, not just the insight**
+Lectures skip from problem → solution. Stories sit in the mess:
+- What confused you?
+- What almost made you quit?
+- What did you almost convince yourself was the right move—but wasn't?
+
+### Practical Exercise
+Take one piece you've already written:
+1. Find the lesson/statement in it
+2. *Delete* that sentence
+3. Write a 3-sentence story that *demonstrates* the same lesson
+4. Put the lesson sentence at the *end*, after the story
+
+The story should carry the weight. The lesson should feel obvious by then.
+
+### Writers to Study
+- **James Holiday** — "The Obstacle is the Way" masterclass in turning events into readable stories
+- **James Clear** — "Atomic Habits" opens every chapter with a story before the framework
+- **Nir Eyal** — "Indistractable" does this well
+- **His own journal entries** — Already writes with texture in journals. That IS his natural voice.
+
+### The Real Secret
+Storytelling is not a talent. It's a *choice* to slow down and re-experience something before writing about it.
+
+Before writing your next piece, ask: *"What specific moment taught me this?"*
+
+Then describe that moment like you're telling a friend at a coffee shop—not presenting to a classroom.
